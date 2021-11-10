@@ -6,4 +6,4 @@ Classification](https://arxiv.org/pdf/1603.06995.pdf).
 
 ## Objetivo
 Construir o modelo, compreender e enteder como funciona o modelo para futuras aplicações.
-![Arquitetura da Rede](/assets/img/MarineGEO_logo.png "Arquitetura da Rede")
+![Arquitetura da Rede](//image/cnn_arch.png "Arquitetura da Rede")
